@@ -6,4 +6,6 @@ See [Dataset Info](https://archive.ics.uci.edu/ml/datasets/Iris)
 ## Usage
 ```sh
 python3 run_bayes.py
+
+python3 run_different_division.py
 ```
